@@ -54,7 +54,7 @@ export default function Home() {
   
   return (
     <Container>
-      <GitHubCorner projectUrl="https://google.com" />
+      <GitHubCorner projectUrl="https://github.com/EdmilsonESF/landing-page-save-storage.git" />
 
       <Head>
         <title>DataWarehouse</title>
